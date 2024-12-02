@@ -10,7 +10,7 @@ from tensorflow.keras.callbacks import EarlyStopping
 import matplotlib.pyplot as plt
 
 # 1. Cargar y analizar los datos
-data = pd.read_csv(r"C:/Users/pedro/Desktop/DEEPFINAL/lechuza.csv")
+data = pd.read_csv(r"C:/Users/beale/Desktop/DEEPFINAL/lechuza.csv")
 
 # Análisis exploratorio
 print(data.info())
